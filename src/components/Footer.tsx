@@ -7,9 +7,9 @@ const Footer = () => {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                     <div>
                         <h3 className="text-lg font-semibold mb-4">İletişim</h3>
-                        <p className="text-gray-600 mb-2">Adres: İstanbul, Türkiye</p>
-                        <p className="text-gray-600 mb-2">Telefon: +90 555 123 4567</p>
-                        <p className="text-gray-600">E-posta: info@furkanavukat.com</p>
+                        <p className="text-gray-600 mb-2">Adres: Yalova, Türkiye</p>
+                        <p className="text-gray-600 mb-2">Telefon: +90 532 696 39 29</p>
+                        <p className="text-gray-600">E-posta: furkan.koc@avfurkankoc.com.tr</p>
                     </div>
                     <div>
                         <h3 className="text-lg font-semibold mb-4">Hizmetlerimiz</h3>
