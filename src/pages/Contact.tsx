@@ -1,10 +1,10 @@
 import { useEffect } from "react";
 
-useEffect(() => {
-    window.scrollTo(0, 0);
-}, []);
-
 const Contact = () => {
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, []);
+
     return (
         <div className="container mx-auto px-4 py-20">
             <div className="max-w-4xl mx-auto">
