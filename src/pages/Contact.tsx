@@ -1,3 +1,9 @@
+import { useEffect } from "react";
+
+useEffect(() => {
+    window.scrollTo(0, 0);
+}, []);
+
 const Contact = () => {
     return (
         <div className="container mx-auto px-4 py-20">
